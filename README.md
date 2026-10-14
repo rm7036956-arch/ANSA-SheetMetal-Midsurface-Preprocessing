@@ -13,7 +13,6 @@ Application	BIW structural, crash and NVH simulation
 1. Objective
 
 Reproduce an industry-style pre-processing workflow on a real automotive part, starting from raw CAD and ending with a quality-checked, analysis-ready shell mesh.
-
 The task required:
 
 Extracting the mid-surface from the CAD model
